@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./NotoSansKR-Black.otf') format('otf'),
+    url("./Lato-Thin.ttf") format('ttf'),
+    url("./Lato-Regular.ttf") format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    /*font-family: 'MyFont';*/
+    font-family: 'Lato', sans-serif;
+}

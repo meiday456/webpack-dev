@@ -1,0 +1,5 @@
+{
+  "./dist/index.js": "auto/index.bundle.js",
+  "./dist/vendors-node_modules_lodash_lodash_js.bundle.js": "auto/vendors-node_modules_lodash_lodash_js.bundle.js",
+  "./dist/index.html": "auto/index.html"
+}
